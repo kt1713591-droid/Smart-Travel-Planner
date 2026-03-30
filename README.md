@@ -86,7 +86,7 @@ Smart Travel Planner
 3. Run the file:
 
 ```
-python main.py
+python app.py
 ```
 
 4. GUI window will open
